@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "7 4 1 7" > /proc/sys/kernel/printk
+
 PCI_DEVICE_PATH="/sys/bus/pci/devices"
 VTC_PCI_DEVICE="0000:00:03.0"
 
