@@ -1,0 +1,110 @@
+[  606.702417] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Default] SIZE[0x1000]
+[  606.703046] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  606.703366] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x115394000, accept_size = 0x1000
+[  606.720560] rpb 0000:00:03.0: VM - Trust bit 1
+[  606.720967] rpb 0000:00:03.0: result verification done: Pass[0]
+[  606.721240] rpb 0000:00:03.0: Test result: Pass[0]
+[  609.726553] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Shared] SIZE[0x1000]
+[  609.727218] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  609.744336] rpb 0000:00:03.0: VM - Trust bit 1
+[  609.744768] rpb 0000:00:03.0: result verification done: Pass[0]
+[  609.745622] rpb 0000:00:03.0: Test result: Pass[0]
+[  612.748563] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Default] SIZE[0x1000]
+[  612.749165] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  612.750027] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x11535e000, accept_size = 0x1000
+[  612.767695] rpb 0000:00:03.0: VM - Trust bit 1
+[  612.768104] rpb 0000:00:03.0: result verification done: Pass[0]
+[  612.768384] rpb 0000:00:03.0: Test result: Pass[0]
+[  615.771405] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Shared] SIZE[0x1000]
+[  615.772070] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  615.789210] rpb 0000:00:03.0: VM - Trust bit 1
+[  615.789713] rpb 0000:00:03.0: result verification done: Pass[0]
+[  615.790503] rpb 0000:00:03.0: Test result: Pass[0]
+[  618.793373] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Default] SIZE[0x1000]
+[  618.794090] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  618.794407] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x1151db000, accept_size = 0x1000
+[  618.811895] rpb 0000:00:03.0: VM - Trust bit 1
+[  618.812304] rpb 0000:00:03.0: result verification done: Pass[0]
+[  618.812872] rpb 0000:00:03.0: Test result: Pass[0]
+[  621.816278] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Shared] SIZE[0x1000]
+[  621.816905] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  621.834222] rpb 0000:00:03.0: VM - Trust bit 1
+[  621.834633] rpb 0000:00:03.0: result verification done: Pass[0]
+[  621.834901] rpb 0000:00:03.0: Test result: Pass[0]
+[  624.837811] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Default] SIZE[0x1000]
+[  624.838448] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  624.839315] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x1153b9000, accept_size = 0x1000
+[  624.856878] rpb 0000:00:03.0: VM - Trust bit 1
+[  624.857506] rpb 0000:00:03.0: result verification done: Pass[0]
+[  624.858275] rpb 0000:00:03.0: Test result: Pass[0]
+[  627.861182] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Shared] SIZE[0x1000]
+[  627.861827] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  627.879052] rpb 0000:00:03.0: VM - Trust bit 1
+[  627.879705] rpb 0000:00:03.0: result verification done: Pass[0]
+[  627.880584] rpb 0000:00:03.0: Test result: Pass[0]
+[  630.883515] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Default] SIZE[0x1000]
+[  630.884173] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  630.884992] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x1151db000, accept_size = 0x1000
+[  630.902672] rpb 0000:00:03.0: VM - Trust bit 1
+[  630.903198] rpb 0000:00:03.0: result verification done: Pass[0]
+[  630.903449] rpb 0000:00:03.0: Test result: Pass[0]
+[  633.906689] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Shared] SIZE[0x1000]
+[  633.907316] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  633.924867] rpb 0000:00:03.0: VM - Trust bit 1
+[  633.925418] rpb 0000:00:03.0: result verification done: Pass[0]
+[  633.926262] rpb 0000:00:03.0: Test result: Pass[0]
+[  636.929286] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Default] SIZE[0x1000]
+[  636.929833] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  636.930132] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x1153ab000, accept_size = 0x1000
+[  636.947454] rpb 0000:00:03.0: VM - Trust bit 1
+[  636.947925] rpb 0000:00:03.0: result verification done: Pass[0]
+[  636.948217] rpb 0000:00:03.0: Test result: Pass[0]
+[  639.951507] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Shared] SIZE[0x1000]
+[  639.952171] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  639.969928] rpb 0000:00:03.0: VM - Trust bit 1
+[  639.970430] rpb 0000:00:03.0: result verification done: Pass[0]
+[  639.971114] rpb 0000:00:03.0: Test result: Pass[0]
+[  642.974363] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Default] SIZE[0x1000]
+[  642.974978] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  642.975249] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x1151db000, accept_size = 0x1000
+[  642.992405] rpb 0000:00:03.0: VM - Trust bit 1
+[  642.992804] rpb 0000:00:03.0: result verification done: Pass[0]
+[  642.993175] rpb 0000:00:03.0: Test result: Pass[0]
+[  645.996267] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Shared] SIZE[0x1000]
+[  645.996849] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  646.014019] rpb 0000:00:03.0: VM - Trust bit 1
+[  646.014426] rpb 0000:00:03.0: result verification done: Pass[0]
+[  646.014714] rpb 0000:00:03.0: Test result: Pass[0]
+[  649.017757] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Default] SIZE[0x1000]
+[  649.018431] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  649.018721] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x11535b000, accept_size = 0x1000
+[  649.035905] rpb 0000:00:03.0: VM - Trust bit 1
+[  649.036479] rpb 0000:00:03.0: result verification done: Pass[0]
+[  649.037268] rpb 0000:00:03.0: Test result: Pass[0]
+[  652.040157] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Shared] SIZE[0x1000]
+[  652.040732] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  652.057876] rpb 0000:00:03.0: VM - Trust bit 1
+[  652.058480] rpb 0000:00:03.0: result verification done: Pass[0]
+[  652.059211] rpb 0000:00:03.0: Test result: Pass[0]
+[  655.062900] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Default] SIZE[0x1000]
+[  655.063503] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  655.063866] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x115069000, accept_size = 0x1000
+[  655.081019] rpb 0000:00:03.0: VM - Trust bit 1
+[  655.081464] rpb 0000:00:03.0: result verification done: Pass[0]
+[  655.081792] rpb 0000:00:03.0: Test result: Pass[0]
+[  658.084711] rpb 0000:00:03.0: Start Test: OP[Memory Read] MEM[Shared] SIZE[0x1000]
+[  658.085488] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  658.102650] rpb 0000:00:03.0: VM - Trust bit 1
+[  658.103251] rpb 0000:00:03.0: result verification done: Pass[0]
+[  658.103966] rpb 0000:00:03.0: Test result: Pass[0]
+[  661.106865] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Default] SIZE[0x1000]
+[  661.107397] rpb 0000:00:03.0: Auth - private mode, private memory is used
+[  661.107749] tdx: try_accept_one: TDX_PAGE_ALREADY_ACCEPTED, start = 0x1153e1000, accept_size = 0x1000
+[  661.124834] rpb 0000:00:03.0: VM - Trust bit 1
+[  661.125219] rpb 0000:00:03.0: result verification done: Pass[0]
+[  661.125515] rpb 0000:00:03.0: Test result: Pass[0]
+[  664.128370] rpb 0000:00:03.0: Start Test: OP[Memory Write] MEM[Shared] SIZE[0x1000]
+[  664.128937] rpb 0000:00:03.0: Auth - private mode, force-shared memory is used
+[  664.146616] rpb 0000:00:03.0: VM - Trust bit 1
+[  664.147070] rpb 0000:00:03.0: result verification done: Pass[0]
+[  664.147791] rpb 0000:00:03.0: Test result: Pass[0]
